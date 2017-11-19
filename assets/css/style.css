@@ -1,0 +1,78 @@
+body {
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+}
+
+.logo-image {
+	margin: 10px;
+	width: 400px;
+}
+
+.game-rules {
+	background-color: #F7C318;
+	width: 500px;
+	height: 400px;
+	padding: 20px;
+	margin: 10px;
+}
+
+.random-number {
+	background-color: #3BB37B;
+	width: 250px;
+	height: 150px;
+	font-size: 75px;
+	float: left;
+	margin: 10px;
+}
+
+.wins-losses {
+	display: inline-block;
+	background-color: #48EAEA;
+	width: 125px;
+	height: 150px;
+	margin: 10px;
+}
+
+.jewels {
+	clear: both;
+}
+
+.clear-jewel {
+	width: 140px;
+	height: 140px;
+}
+
+.teal-jewel {
+	width: 100px;
+	height: 100px;
+	margin: 15px;
+}
+
+.red-jewel {
+	width: 100px;
+	height: 100px;
+	margin: 15px;
+}
+
+.green-jewel {
+	width: 100px;
+	height: 100px;
+	margin: 15px;
+}
+
+.your-total-score {
+	background-color: teal;
+	width: 230px;
+	height: 30px;
+	padding: 0px 10px;
+	margin-left: 10px;
+	line-height: 30px;
+}
+
+.total-score {
+	background-color: teal;
+	width: 250px;
+	height: 100px;
+	margin-left: 10px;
+	margin-bottom: 50px;
+}
